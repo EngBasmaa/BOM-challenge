@@ -1,0 +1,35 @@
+.container{
+    border: 3px solid rgb(162, 19, 19);
+    height: auto;
+    width: 80%;
+    margin: 40px;
+    padding: 10px;
+    background:rgb(252, 218, 218);
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.form{
+    background:rgb(247, 184, 184);
+    padding: 10px;
+    height: auto;
+    margin: 10px;
+}
+
+.input{
+    width: 60%;
+    font-size: 30px;
+}
+
+.add{
+    width: 30%;
+    font-size: 30px;
+
+}
+
+.tasks{
+    height: auto;
+    background:rgb(247, 184, 184);
+    width: 90%;
+}
